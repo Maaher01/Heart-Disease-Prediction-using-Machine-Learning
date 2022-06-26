@@ -13,7 +13,7 @@ In recent times, machine learning has been found to be very fruitful in detectin
 ## Methodology
 Figure 1 illustrates the methodology I employed in my study
 
-<img src="https://raw.githubusercontent.com/Maaher01/Heart-Disease-Prediction-using-Machine-Learning/main/Pictures/MethodologyDiagram.png" width="700" height="300" />
+<img src="https://raw.githubusercontent.com/Maaher01/Heart-Disease-Prediction-using-Machine-Learning/main/Pictures/MLProjectDiagram.png" width="700" height="300" />
 
 The dataset consisted of a total of 226 instances and 17 features. The relationship among the features in the dataset was computed through a heatmap using Pearson's correlation, shown in figure 2. The values inside of a heatmap ranges from -1 to +1. The closer the value is compared to 0, the lesser linearly dependency among the two variables. Values closer to 1 indicate significant positive connection. On the other hand, values closer to -1 illustrates that the variables are strongly negatively connected.
 
